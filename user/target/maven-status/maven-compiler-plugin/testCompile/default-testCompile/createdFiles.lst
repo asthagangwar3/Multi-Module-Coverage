@@ -1,0 +1,6 @@
+com\mycompany\maven\HelloWithTestsIT.class
+com\mycompany\maven\TestingSecurityManager.class
+com\mycompany\maven\TestingSecurityManager$TestExitException.class
+com\mycompany\maven\AppTest.class
+com\mycompany\maven\HelloAppTest.class
+com\mycompany\maven\HelloTest.class
